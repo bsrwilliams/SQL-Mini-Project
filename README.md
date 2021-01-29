@@ -5,3 +5,4 @@ The language used is [Microsoft SQL](https://www.microsoft.com/en-gb/sql-server/
 
 ![Northwind Sample Database](https://docs.yugabyte.com/images/sample-data/northwind/northwind-er-diagram.png)
  
+ Check the queries [here]()!
